@@ -1,5 +1,5 @@
 # Fetch Rewards Coding Exercise
-# Data Products Team Lead Position
+#### Data Products Team Lead Position
 
 ##### Applicant: Nicholas Dysle
 ##### Current Company: Discover Financial
